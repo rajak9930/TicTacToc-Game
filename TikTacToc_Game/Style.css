@@ -1,0 +1,14 @@
+.block{
+    
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-size: cover;
+    display: inline-block;
+}
+.mark1{
+    background-image: url('Image/circle.png.png');
+}
+.mark2{
+    background-image: url('Image/cross_img.png');
+}
